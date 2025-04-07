@@ -1,5 +1,6 @@
 # Final-exam-game
-https://drive.google.com/drive/u/0/my-drive
+เกมพร้อมเล่นและไฟล์โปรเจค https://drive.google.com/drive/u/0/my-drive
+
 วิธีเล่น
 เปิดโปรเจกต์ด้วย Unity
 
